@@ -5,6 +5,7 @@ import { i18n } from "@lingui/core";
 
 import { locales, dynamicActivate } from './i18n';
 
+
 function App() {
   const [count, setCount] = useState(0);
   return (
